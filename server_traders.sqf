@@ -10,7 +10,7 @@ menu_RU_Citizen3 = [
 	"neutral"
 ];
 menu_Rocker4 = [
-	[["AK Variants",9004],["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["Overwatch Vil",1002],["Overwatch Tar",1003],["Overwatch Sniper",1011],["Overwatch Scar",1004],["Overwatch Sidearm",1001],["Overwatch Mas",1007],["Overwatch Hk417",1009],["Overwatch Hk416",1008],["Overwatch Hk416",1008],["Overwatch Dmr",1010],["Overwatch Acr",1005]],
+	[["AK Variants",9004],["G3 Variants",9005],["Assault Rifle",637],["Light Machine Gun",638],["Pistols",674],["Shotguns And Single Shot",641],["Sniper Rifle",640],["Submachine Guns",642],["Overwatch Vil",1002],["Overwatch Tar",1003],["Overwatch Sniper",1011],["Overwatch Scar",1004],["Overwatch Sidearm",1001],["Overwatch Mas",1007],["Overwatch Hk417",1009],["Overwatch Hk416",1008],["Overwatch Hk416",1008],["Overwatch Dmr",1010],["Overwatch Acr",1005]],
 	[],
 	"neutral"
 ];
