@@ -1,0 +1,3 @@
+class Category_9991 {
+class ItemKiloHemp {type = "trade_items";buy[] = {25000,"Coins"};sell[] = {20000,"Coins"};};
+};
