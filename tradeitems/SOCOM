@@ -1,0 +1,8 @@
+class Category_9019 {
+class RH_sc2 {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_sc2acog {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_sc2eot {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_sc2shd {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_sc2sp {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_sc2aim {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+};
