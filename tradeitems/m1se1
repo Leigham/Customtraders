@@ -1,0 +1,14 @@
+class Category_9018 {
+class RH_m1s {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1sacog {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1saim {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1seot {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1sshd {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1ssp {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1sr {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1stacog {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1traim {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1steot {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1stshd {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+class RH_m1stsp {type = "trade_weapons";buy[] = {20000,"Coins"};sell[] = {17500,"Coins"};};
+};
