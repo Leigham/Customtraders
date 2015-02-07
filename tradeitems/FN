@@ -1,0 +1,8 @@
+class Category_9015 {
+class FN_FAL {type = "trade_weapons";buy[] = {15000,"Coins"};sell[] = {12500,"Coins"};};
+class FN_FAL_ANPVS4 {type = "trade_weapons";buy[] = {15000,"Coins"};sell[] = {12500,"Coins"};};
+class vil_FnMag {type = "trade_weapons";buy[] = {15000,"Coins"};sell[] = {12500,"Coins"};};
+class vil_Minimi {type = "trade_weapons";buy[] = {15000,"Coins"};sell[] = {12500,"Coins"};};
+class vil_Fal {type = "trade_weapons";buy[] = {15000,"Coins"};sell[] = {12500,"Coins"};};
+class Vil_Far_Para {type = "trade_weapons";buy[] = {15000,"Coins"};sell[] = {12500,"Coins"};};
+};
